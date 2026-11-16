@@ -10,7 +10,7 @@ Esta secuencia fue utilizada para crear los modelos 3D y se puede seguir para cr
 
 1. Para cada animal es importante elegir imagenes donde se vea el cuerpo entero (o su mayoría) con claridad. En el caso de no encontrar imagenes de cuerpo entero, algunos modelos de IA pueden copmletar las partes no visibles del cuerpo del animal
 2. Luego de obtenida la imagen, se debe eliminar el fondo para obtener una imagen PNG transparente.
-3. A partir de cada imagen se puede crear un modelo 3D utilizando la herramienta de [Image to 3D Model de makerworld](https://makerworld.com/en/makerlab/imageTo3d?from=makerlab). Los modelos de este repositorio fueron creados con el modelo "Rodin Gen-2.5 Medium". 
+3. A partir de cada imagen se puede crear un modelo 3D utilizando la herramienta de [Image to 3D Model de makerworld](https://makerworld.com/en/makerlab/imageTo3d?from=makerlab). Los modelos de este repositorio fueron creados con el modelo "**Rodin Gen-2.5 Medium**". 
 4. Luego de generado el modelo, se debe exportar en formato "mesh" para obtener el archivo STL. 
 5. Para algunos de los modelos 3D se recomienda imprimir con la [base común](./assets/base.stl) para mayor estabilidad. La base debe agregarse y fusionar con el modelo 3D en el slicer. 
 
