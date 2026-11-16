@@ -23,7 +23,7 @@ En la tabla se puede ver cada animal y acceder directamente a su imagen PNG y a 
 | Carpincho | <img src="./assets/carpincho-transparent.png" alt="Carpincho" width="120"> | [Ver o descargar PNG](./assets/carpincho-transparent.png) | [Descargar STL](./assets/carpincho-transparent.stl) | No |
 | Coatí | <img src="./assets/coati-transparent.png" alt="Coatí" width="120"> | [Ver o descargar PNG](./assets/coati-transparent.png) | [Descargar STL](./assets/coati-transparent.stl) | No |
 | Guazubirá | <img src="./assets/guazubira-transparent.png" alt="Guazubirá" width="120"> | [Ver o descargar PNG](./assets/guazubira-transparent.png) | [Descargar STL](./assets/guazubira-transparent.stl) | Si |
-| Lechuza | <img src="./assets/lechuza-transparent.png" alt="Lechuza" width="120"> | [Ver o descargar PNG](./assets/lechuza-transparent.png) | [Descargar STL](./assets/lechuza-transparent.stl) | No |
+| Lechuza | <img src="./assets/lechuza-transparent.png" alt="Lechuza" width="120"> | [Ver o descargar PNG](./assets/lechuza-transparent.png) | [Descargar STL](./assets/lechuza-transparent.stl) | Si |
 | Lobito de río | <img src="./assets/lobito-de-rio-transparent.png" alt="Lobito de río" width="120"> | [Ver o descargar PNG](./assets/lobito-de-rio-transparent.png) | [Descargar STL](./assets/lobito-de-rio-transparent.stl) | No |
 | Mano pelada | <img src="./assets/mano-pelada-transparent.png" alt="Mano pelada" width="120"> | [Ver o descargar PNG](./assets/mano-pelada-transparent.png) | [Descargar STL](./assets/mano-pelada-transparent.stl) | No |
 | Margay | <img src="./assets/margay-transparent.png" alt="Margay" width="120"> | [Ver o descargar PNG](./assets/margay-transparent.png) | [Descargar STL](./assets/margay-transparent.stl) | No |
